@@ -663,10 +663,3 @@ This software is provided for **research and educational purposes only**. It is 
 
 ---
 
-<div align="center">
-
-**Made with ❤️ by the VIT Research Team**
-
-[⬆ Back to Top](#fmri-cognitive-intelligence-analysis-framework)
-
-</div>
